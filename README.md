@@ -1,5 +1,5 @@
 # CM3070 Final Project  
-## Predictive Modelling of Emerging Online Trends using Google Trends
+## Predictive Modelling of Emerging Online Trends For GMMTV Artists using Google Trends Data
 
 ### 📖 Overview
 This project develops a predictive modelling framework to identify emerging online trends related to GMMTV artists and events using Google Trends data.
